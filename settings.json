@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "AFKBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "shak2022.aternos.me",
+    "port": 27185,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "I'm shak2022's AFK bot",
         "I like to play Minecraft!"
       ]
     },
